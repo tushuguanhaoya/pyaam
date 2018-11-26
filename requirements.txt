@@ -1,0 +1,4 @@
+opencv-python
+gitpython
+PyOpenGL
+PyOpenGL_accelerate
